@@ -1,0 +1,21 @@
+main {
+    width: 600px;
+    height: 800px;
+    margin: auto;
+    background-color: pink
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  div1 {
+    text-align: center;
+  }
+  textarea, button {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 150px
+  }
+  
